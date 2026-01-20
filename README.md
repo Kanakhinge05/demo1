@@ -1,2 +1,3 @@
 # demo1
-demo
+this is my first repo
+KKhOps.
